@@ -1,22 +1,7 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vlfr1997/vlfr1997/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vlfr1997/vlfr1997/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vlfr1997/vlfr1997/output/pacman-contribution-graph.svg">
+</picture>
 
-<!--
-**vlfr1997/vlfr1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- For canvas -->
-<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=yourusername&platform=github" 
-    width="800" height="600" frameborder="0"></iframe>
-<!-- For SVG -->
-<img src="https://pacman.abozanona.me?username=vlfr1997" />
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
